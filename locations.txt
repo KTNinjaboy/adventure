@@ -1,0 +1,52 @@
+LOCATION -1
+0
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 1
+0
+You are standing in front of the Instructional Centre(IB) at UTM, You notice many students outside and inside of IB.
+You are standing in front of the Instructional Centre at UTM, there are many people around socializing and walking to their classes. You also happen to notice many people studying
+inside IB through the windows. These also seems to be a paper taped to the window with the number 6 written on it.
+END
+
+LOCATION 2
+0
+You are now inside IB, alone, with no exit. There is a lunch room the left and a hallway to the north.
+You are now inside IB. However... all the people you saw earlier that were inside have disappeared! In fact the building is completely empty and pin drop silent.
+As you look around you notice that the entrance you came from has disappeared. Transforming itself into a red brick wall.
+Coincidentally, As you look around, all the windows have turned into red brick walls as well! There is study room to the west and a hallway north.
+END
+
+LOCATION 3
+5
+You are inside the lunch room. The only way out is east.
+You are inside the lunch room. It feels odd not hearing the usual sounds of people eating and conversing.
+As you look around you notice a T-Card on the floor. The only way out is east.
+END
+
+LOCATION 4
+5
+You are in the middle of IB. There is a hallway to the east, a passage to the north, and another lunchroom to the west.
+You are in the middle of IB. It's huge and really cold. As you look around you notice your lucky pen on the floor. There lies a hallway to the east, a passage to the north, and another lunchroom to the west.
+END
+
+LOCATION 5
+5
+You are on the far north end of the building. Your examination room lies to east.
+You are on the far north end of the building. The walls have all turned into red bricks as well. These also seems to be a paper taped to the wall with the number 4 written on it. Your examination room lies to the east. The only way back is south.
+END
+
+LOCATION 6
+0
+You are in a study room, there seems to be nothing of importance here.
+You are in a study room. It too has the weird feeling of absence. These also seems to be a paper taped to the door of the study room with the number 9 written on it.
+END
+
+LOCATION 7
+5
+You are on the far west side of the building. The only out is back east.
+You are on the far west side of the building, there are benches to your left and washrooms to your right. You see your cheat sheet on the ground.
+The only exit is back east.
+END

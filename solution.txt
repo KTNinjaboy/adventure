@@ -1,0 +1,22 @@
+go west
+go south
+score
+pickup T-card
+inventory
+score
+go west
+go north
+score
+pickup Lucky Pen
+inventory
+score
+go west
+score
+pickup Cheat Sheet
+inventory
+score
+go east
+go north
+score
+go in exam room
+6-4-9
